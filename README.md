@@ -10,7 +10,7 @@ Ce projet personnel a pour but d'analyser un jeu de données de clients bancaire
 
 ## 📊 Principaux résultats
 L'analyse exploratoire a mis en évidence une forte corrélation entre le montant du crédit accordé et le risque de défaut de paiement. 
-*(Insérer ici ton image de graphique en faisant glisser le fichier image directement dans l'éditeur de texte GitHub, il va créer le lien tout seul !)*
+<img width="1200" height="500" alt="graphiques_risque" src="https://github.com/user-attachments/assets/4c0dad68-3fef-405a-b057-af8615a18b73" />
 
 ## 🚀 Compétences démontrées
 * Conception de schéma relationnel et importation de données brutes.
