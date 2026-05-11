@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 UTILISATEUR = "SYSTEM"
-MOT_DE_PASSE = "Momoel45"
+MOT_DE_PASSE = "ton_mot_de_passe"
 HOTE = "localhost"
 PORT = "1521"
 SERVICE = "XE"
